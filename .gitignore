@@ -2,3 +2,4 @@ notes
 saves
 ignore
 node_modules
+.env
